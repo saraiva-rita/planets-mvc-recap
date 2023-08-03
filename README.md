@@ -1,10 +1,10 @@
 ### 🪐 Planets MVC Recap 🪐
 
-As Rebecca Black says: 'It's Friday, Friday...' but, first, let's do our Morning Recap 🤸‍♂️🤸‍♂
+Friday is here, but, first, let's do our Morning Recap 🤸‍♂️🤸‍♂🤸‍♂
 
 Today's Recap is going to be all about our Solar System Planets 🚀
 
-<img width="700" height="500" src="https://i.pinimg.com/originals/82/73/1c/82731cd69bc7c8ad339d88eabed303f3.gif"/>
+<img width="500" height="500" src="https://i.pinimg.com/originals/82/73/1c/82731cd69bc7c8ad339d88eabed303f3.gif"/>
 
 ## Instructions
 
