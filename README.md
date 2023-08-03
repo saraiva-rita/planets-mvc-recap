@@ -18,7 +18,7 @@ Hint: you have already the package-lock.json. So, after cloning the lab, you sho
 
 After having your project configured, check your '/utils/planets.js'. Everytime you click on the 'Create All Planets' Button on your Homepage, this will grab the Array of Objects that you see on this file and iterate over each one of the elements. With each interation, a Solar System planet (and also the Sun 🌞) should be created inside your MongoDB Database. 
 
-The problem here is that we don't have yet our Schema ready to receive the information of each Object of the Array 😭
+The problem here is that we don't have yet our Schema ready to receive the information of each object 😭
 
 <b>It's up to you to edit the planetSchema with all the fields each Solar System Planet Object have in common</b> 😉
 
