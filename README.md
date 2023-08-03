@@ -24,20 +24,25 @@ The problem here is that we don't have yet our Schema ready to receive the infor
 
 Hint: How can you know that you have the Planets inside your DB? MongoDB Compass will be your bff 🚀
 
-<br>
-
-### 2nd Interation: Display a Schnauzer Image on your Schnauzer Page
-
-5 random Dog Photos is a cool ideia, but what about my doggo? He's a Schnauzer Miniature and he needs a single page for him. 
-
-To do that, check your GET '/schnauzer' Route and the API Documentation that you have already. 
-
-After having the data with you, display it on the Browser, using your <b>schnauzer.hbs</b> file. 
-
-<b>Hint: do not forget that 'Schnauzer' is a breed and 'Miniature' a sub-breed 🧐 </b>
+Hint 2: From time to time, clicking the Homepage Delete All Planets Button can be a good idea, if you need to do a reset on your Database
 
 <br>
 
-### Bonus: CSS, CSS, CSS 🎉
+### 2nd Interation: Display all the planets in 'list-planets.hbs'
+
+8 Planets + the Sun inside your DB... are you Matthew McConaughey? Because that's some Interstellar happening here! 
+
+Last thing that we're going to do is display all the planets inside our Web App. 
+
+To do that, check your app.js. Here you'll find some basic Express/HBS/Mongoose configuration. 
+
+You should work inside the GET '/list-planets' Express Route. Inside it, you should return all the Planets that you have inside your DB and render them with your 'list-planets.hbs' file. 
+
+After that, you should edit your 'list-planets.hbs' to have all the data in your HTML... maybe start with a {{#each}} {{/each}} loop? 😉
+
+Hint: Remember that Handlebars only reads Objects, not Arrays!
+
+
+### GOOD LUCK! 🎉🎉🎉
 
 <br>
