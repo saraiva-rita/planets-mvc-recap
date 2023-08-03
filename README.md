@@ -40,6 +40,7 @@ After that, you should edit your 'list-planets.hbs' to have all the data in your
 
 Hint: Remember that Handlebars only reads Objects, not Arrays!
 
+<br>
 
 ### Good Luck! 🎉🎉🎉
 
