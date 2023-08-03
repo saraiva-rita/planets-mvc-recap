@@ -32,9 +32,7 @@ Hint 2: From time to time, clicking the Homepage Delete All Planets Button can b
 
 8 Planets + the Sun inside your DB... are you Matthew McConaughey? Because that's some Interstellar happening here! 
 
-Last thing that we're going to do is display all the planets inside our Web App. 
-
-To do that, check your app.js. Here you'll find some basic Express/HBS/Mongoose configuration. 
+Last thing that we're going to do is display all the planets inside our Web App. To do that, check your app.js. Here you'll find some basic Express/HBS/Mongoose configuration. 
 
 You should work inside the GET '/list-planets' Express Route. Inside it, you should return all the Planets that you have inside your DB and render them with your 'list-planets.hbs' file. 
 
