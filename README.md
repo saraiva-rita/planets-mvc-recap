@@ -1,6 +1,6 @@
 ### 🪐 Planets MVC Recap 🪐
 
-Friday is here, but, first, let's do our Morning Recap 🤸‍♂️🤸‍♂🤸‍♂
+Friday is here but first let's do our Morning Recap 🤸‍♂️🤸‍♂🤸‍♂
 
 Today's Recap is going to be all about our Solar System Planets 🚀
 
