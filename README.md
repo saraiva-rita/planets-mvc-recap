@@ -14,15 +14,15 @@ Hint: you have already the package-lock.json. So, after cloning the lab, you sho
 
 <br>
 
-### 1st Interation: Display 5 Random Images on your Homepage
+### 1st Interation: Create a Schema that suits your Planet's Object
 
-After having your project configured, check your app.js file. There you will find some basic Express / HBS configurations with already two 'GET' Request Routes created. 
+After having your project configured, check your '/utils/planets.js'. Everytime you click on the 'Create All Planets' Button on your Homepage, this will grab the Array of Objects that you see on this file and iterate over each one of the elements. With each interation, a Solar System planet (and also the Sun 🌞) should be created inside your MongoDB Database. 
 
-Let's start with the first one. Inside GET '/' you should call your Doggo API to retrieve you 5 random Dog Photos 🐕🐕🐕🐕🐕
+The problem here is that we don't have yet our Schema ready to receive the information of each Object of the Array 😭
 
-How can you do that? Just follow the documentation that is here: https://www.npmjs.com/package/doggo-api-wrapper 
+<b>It's up to you to edit the planetSchema with all the fields each Solar System Planet Object have in common</b> 😉
 
-After having the data with you, display it on the Browser, using your <b>all-breeds.hbs</b> file. 
+Hint: How can you know that you have the Planets inside your DB? MongoDB Compass will be your bff 🚀
 
 <br>
 
